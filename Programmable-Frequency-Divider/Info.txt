@@ -1,1 +1,0 @@
-The design accepts the desired frequency as input and automatically calculates the division factor, N. And divides the clock frequncy to generate the desired frequency as output.
